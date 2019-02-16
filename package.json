@@ -5,10 +5,13 @@
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest",
-    "tsc": "tsc"
+    "tsc": "tsc",
+    "server": "node server.js"
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
     "react": "16.6.3",
     "react-native": "0.58.4",
     "react-native-webview": "jerolimov/react-native-webview#shared-cookies"
