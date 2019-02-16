@@ -11,6 +11,9 @@ the URLs with an UIWebView or a WKWebView.
 For more details see
 PR [#175](https://github.com/react-native-community/react-native-webview/pull/175).
 
+You can see the full diff against the master branch here:
+[compare master...shared-cookies](https://github.com/react-native-community/react-native-webview/compare/master...jerolimov:shared-cookies)
+
 ## Project setup
 
 Project was created with
