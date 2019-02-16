@@ -8,8 +8,10 @@
     "tsc": "tsc"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "react": "16.6.3",
-    "react-native": "0.58.4"
+    "react-native": "0.58.4",
+    "react-native-webview": "jerolimov/react-native-webview#shared-cookies"
   },
   "devDependencies": {
     "@types/jest": "^24.0.5",
