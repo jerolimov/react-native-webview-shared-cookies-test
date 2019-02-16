@@ -1,4 +1,15 @@
-# Example / test project for new react-native-webview feature `sharedCookiesEnabled`
+# Test project for new react-native-webview sharedCookiesEnabled feature
+
+This is just an example or test project for the
+PR [#175](https://github.com/react-native-community/react-native-webview/pull/175)
+in the react-native-webview project.
+
+It contains a small expressjs based server to set and clear cookies
+and a React Native Compontent to call these endpoints with `fetch` or by opening
+the URLs with an UIWebView or a WKWebView.
+
+For more details see
+PR [#175](https://github.com/react-native-community/react-native-webview/pull/175).
 
 ## Project setup
 
